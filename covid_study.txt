@@ -1,0 +1,16 @@
+Part 1:
+Identify P(A) and P(A and B):
+
+Risk Analysis: Event A = has had an accident. Event B = age is less than 25. P(B) = 0.1, P(A and B) = 0.05. P(A|B) = 0.5.
+Coin Flip: Event A = coin lands on Heads on second flip. Event B = coin lands on Heads on first flip. P(B) = 0.5. P(A and B) = 0.25. P(A|B) = 0.5.
+Achieving Marks: Event A = Achieving an 80. Event B = doing Maths. P(B) = 0.6. P(A and B) = 0.3. P(A|B) = 0.5.
+
+
+Part 2:
+H = We have COVID
+E = We tested positive for COVID
+
+P(H) = Have COVID / Total = 70 / 100 = 0.7
+P(E|H) = (Have COVID and Tested Positive) / Total = 63 / 100 = 0.63
+P(E) = Tested Positive / Total = 64 / 100 = 0.64
+P(H|E) = P(E|H)P(H)/P(E) = (0.63)(0.7)/(0.64) = 0.69

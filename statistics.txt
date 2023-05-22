@@ -1,0 +1,11 @@
+Part 1: Mean, Median and Mode:
+
+Population Statistics: Median. Reason: Median is unaffected by major outliers, such as when 10% of the population holds 70% of the wealth.
+Restaurant: Mode. Reason: Mode works better with categorical data. Also, most ordered item = most popular item.
+Electricity: Mean. Reason: No outliers reported. Like the car example, you just want to measure an average monthly expenditure, so you can apply this for each month.
+Healthcare Insurance: Median. Reason: Same as Population Statistics (there are major outliers reported). 
+
+Part 2: Variance and Standard Deviation
+
+Internet speed: Variance. Reason: variance is more of a measure of stability. The lower the variance => the more stable the data is.
+Mauritius Holiday: Standard Deviation. Reason: Standard Deviation is a good measure of outliers. If you can get the standard deviation of the prices, outliers can be identified.
